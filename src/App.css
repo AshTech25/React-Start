@@ -1,0 +1,20 @@
+.Header{
+  text-align:center;
+  background-color: black;
+  color : white
+}
+.AddButton{
+  width: 2.5rem;
+  height:2.5rem;
+  background-color:darkkhaki;
+  color:#000000;
+  font-weight: bolder;
+  border-radius: 3rem;
+  margin : 2rem;
+  font-size: 20px;
+  
+
+}
+.update{
+  display:flex;
+}
